@@ -1,0 +1,59 @@
+header{
+    background-color: rgba(33, 32, 28, 0.8);
+    padding:15px;
+}
+.btn-search{
+    background-color: rgba(201, 108, 46,0.8);
+    color: white;
+}
+.icon-header{
+    font-size: 25px;
+    margin: 5px;
+    color: white;
+}
+.header-right{
+    text-align: right;
+}
+.container h3{
+    text-align: center;
+    padding-top: 10px;
+}
+.col-md-3 h4{
+    padding-top: 40px;
+    margin-bottom: 25px;
+}
+.newpost img{
+    float: left;
+    height: 45px;
+    margin-right: 10px;
+}
+.newpost{
+    width: 265px;
+}
+.newpost-img{
+    float: left;
+    height: auto;
+    margin-bottom: 50px;
+}
+.newpost a{
+    text-decoration: none;
+    color:black;
+}
+.card{
+    border: 0;
+    margin-bottom: 15px;
+}
+.card img{
+    width: 256px;
+    height: 144px;
+}
+/* .col-md-4{
+    width: 30%;
+    margin-left: 25px;
+} */
+.card-body{
+    padding-left:0;
+}
+.card-text{
+    width: 256px;
+}
